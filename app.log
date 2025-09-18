@@ -1,0 +1,177 @@
+2025-05-29 03:08:49,164 - INFO - Received file: Input - Copy.xlsx
+2025-05-29 03:08:49,165 - INFO - Selected product: Teamcenter, version: 2406
+2025-05-29 03:08:49,166 - INFO - Uploaded file saved to output/Input - Copy.xlsx
+2025-05-29 03:08:49,536 - INFO - Added column: Relevance
+2025-05-29 03:08:49,537 - INFO - Added column: Accuracy
+2025-05-29 03:08:49,537 - INFO - Added column: Clarity
+2025-05-29 03:08:49,538 - INFO - Added column: Tone and Politeness
+2025-05-29 03:08:49,538 - INFO - Added column: Completeness
+2025-05-29 03:08:49,538 - INFO - Added column: Engagement
+2025-05-29 03:08:49,539 - INFO - Added column: User Satisfaction
+2025-05-29 03:08:49,539 - INFO - Added column: Bias and Ethical
+2025-05-29 03:08:49,540 - INFO - Added column: Cross-Session Continuity
+2025-05-29 03:08:49,540 - INFO - Added column: Information Provenance
+2025-05-29 03:08:49,541 - INFO - Processing question 1/5: How can I customize Active Workspace?
+2025-05-29 03:09:10,741 - INFO - Extracted 4 unique URLs.
+2025-05-29 03:09:10,742 - INFO - Message saved to messages\How_can_I_customize_Active_Wor_20250529_030910.json
+2025-05-29 03:09:10,742 - INFO - Processed question 1 successfully.
+2025-05-29 03:09:10,743 - INFO - Processing question 2/5: What is Command Builder command?
+2025-05-29 03:09:29,883 - INFO - Extracted 4 unique URLs.
+2025-05-29 03:09:29,885 - INFO - Message saved to messages\What_is_Command_Builder_comman_20250529_030929.json
+2025-05-29 03:09:29,885 - INFO - Processed question 2 successfully.
+2025-05-29 03:09:29,886 - INFO - Processing question 3/5: When Command Builder is visible?
+2025-05-29 03:09:45,672 - INFO - Extracted 4 unique URLs.
+2025-05-29 03:09:45,673 - INFO - Message saved to messages\When_Command_Builder_is_visibl_20250529_030945.json
+2025-05-29 03:09:45,674 - INFO - Processed question 3 successfully.
+2025-05-29 03:09:45,674 - INFO - Processing question 4/5: Is it possible to store changes in Command Builder?
+2025-05-29 03:10:02,181 - INFO - Extracted 3 unique URLs.
+2025-05-29 03:10:02,183 - INFO - Message saved to messages\Is_it_possible_to_store_change_20250529_031002.json
+2025-05-29 03:10:02,184 - INFO - Processed question 4 successfully.
+2025-05-29 03:10:02,184 - INFO - Processing question 5/5: What is Live Excel?
+2025-05-29 03:10:27,062 - INFO - Extracted 4 unique URLs.
+2025-05-29 03:10:27,064 - INFO - Message saved to messages\What_is_Live_Excel__20250529_031027.json
+2025-05-29 03:10:27,064 - INFO - Processed question 5 successfully.
+2025-05-29 03:10:27,104 - INFO - Processed file saved to output/processed_20250529_031027.xlsx
+2025-05-29 03:11:24,457 - INFO - Received file: ADT_Deno_with_responses.xlsx
+2025-05-29 03:11:24,457 - INFO - Selected product: Teamcenter, version: 2406
+2025-05-29 03:11:24,458 - INFO - Uploaded file saved to output/ADT_Deno_with_responses.xlsx
+2025-05-29 03:11:24,502 - INFO - Added column: Relevance
+2025-05-29 03:11:24,502 - INFO - Added column: Tone and Politeness
+2025-05-29 03:11:24,503 - INFO - Added column: Engagement
+2025-05-29 03:11:24,503 - INFO - Added column: User Satisfaction
+2025-05-29 03:11:24,503 - INFO - Added column: Bias and Ethical
+2025-05-29 03:11:24,504 - INFO - Added column: Cross-Session Continuity
+2025-05-29 03:11:24,504 - INFO - Added column: Information Provenance
+2025-05-29 03:11:24,504 - INFO - Added column: Extracted Text
+2025-05-29 03:11:24,505 - INFO - Added column: Extracted URL
+2025-05-29 03:11:24,505 - INFO - Processing question 1/9: I want to collaborate and work on my Teamcenter project files. How do I do it?
+2025-05-29 03:11:46,144 - INFO - Extracted 4 unique URLs.
+2025-05-29 03:11:46,145 - INFO - Message saved to messages\I_want_to_collaborate_and_work_20250529_031146.json
+2025-05-29 03:11:46,145 - INFO - Processed question 1 successfully.
+2025-05-29 03:11:46,145 - INFO - Processing question 2/9: I am working with Teamcenter and I want to transfer all tasks of resource pool to another resource pool. How to do it?
+2025-05-29 03:12:06,874 - INFO - Extracted 4 unique URLs.
+2025-05-29 03:12:06,876 - INFO - Message saved to messages\I_am_working_with_Teamcenter_a_20250529_031206.json
+2025-05-29 03:12:06,876 - INFO - Processed question 2 successfully.
+2025-05-29 03:12:06,877 - INFO - Processing question 3/9: What are workflow handlers?
+2025-05-29 03:12:24,883 - INFO - Extracted 4 unique URLs.
+2025-05-29 03:12:24,885 - INFO - Message saved to messages\What_are_workflow_handlers__20250529_031224.json
+2025-05-29 03:12:24,885 - INFO - Processed question 3 successfully.
+2025-05-29 03:12:24,885 - INFO - Processing question 4/9: Can I cross-probe ECAD documents?
+2025-05-29 03:12:42,218 - INFO - Extracted 4 unique URLs.
+2025-05-29 03:12:42,219 - INFO - Message saved to messages\Can_I_cross_probe_ECAD_documen_20250529_031242.json
+2025-05-29 03:12:42,219 - INFO - Processed question 4 successfully.
+2025-05-29 03:12:42,220 - INFO - Processing question 5/9: I use Multi-Site Collaboration and want to consume a remote EBOM in the MBOM. How?
+2025-05-29 03:13:02,907 - INFO - Extracted 4 unique URLs.
+2025-05-29 03:13:02,908 - INFO - Message saved to messages\I_use_Multi_Site_Collaboration_20250529_031302.json
+2025-05-29 03:13:02,909 - INFO - Processed question 5 successfully.
+2025-05-29 03:13:02,909 - INFO - Processing question 6/9: I am about to use Security Services in Teamcenter. Any tips?
+2025-05-29 03:13:24,578 - INFO - Extracted 4 unique URLs.
+2025-05-29 03:13:24,580 - INFO - Message saved to messages\I_am_about_to_use_Security_Ser_20250529_031324.json
+2025-05-29 03:13:24,580 - INFO - Processed question 6 successfully.
+2025-05-29 03:13:24,580 - INFO - Processing question 7/9: My organization wants to track requirements and changes in MBSE during the product development lifecycle. Can you help out?
+2025-05-29 03:13:42,946 - INFO - Extracted 4 unique URLs.
+2025-05-29 03:13:42,948 - INFO - Message saved to messages\My_organization_wants_to_track_20250529_031342.json
+2025-05-29 03:13:42,948 - INFO - Processed question 7 successfully.
+2025-05-29 03:13:42,949 - INFO - Processing question 8/9: I want to register new vendors in Vendor Management. Guide me please.
+2025-05-29 03:14:00,717 - INFO - Extracted 4 unique URLs.
+2025-05-29 03:14:00,718 - INFO - Message saved to messages\I_want_to_register_new_vendors_20250529_031400.json
+2025-05-29 03:14:00,719 - INFO - Processed question 8 successfully.
+2025-05-29 03:14:00,719 - INFO - Processing question 9/9: My PLM organization wants to follow modular design approach of machine building. How can Teamcenter help here?
+2025-05-29 03:14:19,022 - INFO - Extracted 4 unique URLs.
+2025-05-29 03:14:19,024 - INFO - Message saved to messages\My_PLM_organization_wants_to_f_20250529_031419.json
+2025-05-29 03:14:19,024 - INFO - Processed question 9 successfully.
+2025-05-29 03:14:19,072 - INFO - Processed file saved to output/processed_20250529_031419.xlsx
+2025-05-29 03:17:06,744 - INFO - Received file: ADT_Deno_with_responses_processed.xlsx
+2025-05-29 03:17:06,744 - INFO - Selected product: NX, version: 1433
+2025-05-29 03:17:06,745 - INFO - Uploaded file saved to output/ADT_Deno_with_responses_processed.xlsx
+2025-05-29 03:17:06,771 - INFO - Added column: Relevance
+2025-05-29 03:17:06,771 - INFO - Added column: Accuracy
+2025-05-29 03:17:06,771 - INFO - Added column: Clarity
+2025-05-29 03:17:06,771 - INFO - Added column: Tone and Politeness
+2025-05-29 03:17:06,773 - INFO - Added column: Completeness
+2025-05-29 03:17:06,773 - INFO - Added column: Engagement
+2025-05-29 03:17:06,774 - INFO - Added column: User Satisfaction
+2025-05-29 03:17:06,774 - INFO - Added column: Bias and Ethical
+2025-05-29 03:17:06,775 - INFO - Added column: Cross-Session Continuity
+2025-05-29 03:17:06,775 - INFO - Added column: Information Provenance
+2025-05-29 03:17:06,775 - INFO - Added column: Extracted Text
+2025-05-29 03:17:06,776 - INFO - Added column: Extracted URL
+2025-05-29 03:17:06,776 - INFO - Processing question 1/9: I want to collaborate and work on my Teamcenter project files. How do I do it?
+2025-05-29 03:17:25,824 - INFO - Extracted 1 unique URLs.
+2025-05-29 03:17:25,825 - INFO - Message saved to messages\I_want_to_collaborate_and_work_20250529_031725.json
+2025-05-29 03:17:25,825 - INFO - Processed question 1 successfully.
+2025-05-29 03:17:25,826 - INFO - Processing question 2/9: I am working with Teamcenter and I want to transfer all tasks of resource pool to another resource pool. How to do it?
+2025-05-29 03:17:44,615 - INFO - Extracted 1 unique URLs.
+2025-05-29 03:17:44,617 - INFO - Message saved to messages\I_am_working_with_Teamcenter_a_20250529_031744.json
+2025-05-29 03:17:44,617 - INFO - Processed question 2 successfully.
+2025-05-29 03:17:44,618 - INFO - Processing question 3/9: What are workflow handlers?
+2025-05-29 03:17:59,765 - INFO - Extracted 1 unique URLs.
+2025-05-29 03:17:59,767 - INFO - Message saved to messages\What_are_workflow_handlers__20250529_031759.json
+2025-05-29 03:17:59,767 - INFO - Processed question 3 successfully.
+2025-05-29 03:17:59,768 - INFO - Processing question 4/9: Can I cross-probe ECAD documents?
+2025-05-29 03:18:15,705 - INFO - Extracted 1 unique URLs.
+2025-05-29 03:18:15,707 - INFO - Message saved to messages\Can_I_cross_probe_ECAD_documen_20250529_031815.json
+2025-05-29 03:18:15,708 - INFO - Processed question 4 successfully.
+2025-05-29 03:18:15,708 - INFO - Processing question 5/9: I use Multi-Site Collaboration and want to consume a remote EBOM in the MBOM. How?
+2025-05-29 03:18:35,056 - INFO - Extracted 1 unique URLs.
+2025-05-29 03:18:35,057 - INFO - Message saved to messages\I_use_Multi_Site_Collaboration_20250529_031835.json
+2025-05-29 03:18:35,058 - INFO - Processed question 5 successfully.
+2025-05-29 03:18:35,058 - INFO - Processing question 6/9: I am about to use Security Services in Teamcenter. Any tips?
+2025-05-29 03:18:55,695 - INFO - Extracted 1 unique URLs.
+2025-05-29 03:18:55,697 - INFO - Message saved to messages\I_am_about_to_use_Security_Ser_20250529_031855.json
+2025-05-29 03:18:55,697 - INFO - Processed question 6 successfully.
+2025-05-29 03:18:55,698 - INFO - Processing question 7/9: My organization wants to track requirements and changes in MBSE during the product development lifecycle. Can you help out?
+2025-05-29 03:19:14,967 - INFO - Extracted 1 unique URLs.
+2025-05-29 03:19:14,968 - INFO - Message saved to messages\My_organization_wants_to_track_20250529_031914.json
+2025-05-29 03:19:14,969 - INFO - Processed question 7 successfully.
+2025-05-29 03:19:14,969 - INFO - Processing question 8/9: I want to register new vendors in Vendor Management. Guide me please.
+2025-05-29 03:19:28,560 - INFO - Extracted 1 unique URLs.
+2025-05-29 03:19:28,561 - INFO - Message saved to messages\I_want_to_register_new_vendors_20250529_031928.json
+2025-05-29 03:19:28,562 - INFO - Processed question 8 successfully.
+2025-05-29 03:19:28,562 - INFO - Processing question 9/9: My PLM organization wants to follow modular design approach of machine building. How can Teamcenter help here?
+2025-05-29 03:19:46,826 - INFO - Extracted 1 unique URLs.
+2025-05-29 03:19:46,828 - INFO - Message saved to messages\My_PLM_organization_wants_to_f_20250529_031946.json
+2025-05-29 03:19:46,828 - INFO - Processed question 9 successfully.
+2025-05-29 03:19:46,862 - INFO - Processed file saved to output/processed_20250529_031946.xlsx
+2025-05-30 19:44:44,690 - INFO - Received file: 1 - Copy.csv
+2025-05-30 19:44:44,691 - INFO - Selected product: Teamcenter, version: 2406
+2025-05-30 19:44:44,692 - INFO - Uploaded file saved to output/1 - Copy.csv
+2025-05-30 19:44:44,711 - ERROR - An error occurred: 'utf-8' codec can't decode byte 0x92 in position 1311: invalid start byte
+2025-05-30 19:45:45,086 - INFO - Received file: Input - Copy.xlsx
+2025-05-30 19:45:45,086 - INFO - Selected product: Teamcenter, version: 2406
+2025-05-30 19:45:45,087 - INFO - Uploaded file saved to output/Input - Copy.xlsx
+2025-05-30 19:45:45,816 - INFO - Added column: Relevance
+2025-05-30 19:45:45,817 - INFO - Added column: Accuracy
+2025-05-30 19:45:45,818 - INFO - Added column: Clarity
+2025-05-30 19:45:45,818 - INFO - Added column: Tone and Politeness
+2025-05-30 19:45:45,819 - INFO - Added column: Completeness
+2025-05-30 19:45:45,819 - INFO - Added column: Engagement
+2025-05-30 19:45:45,820 - INFO - Added column: User Satisfaction
+2025-05-30 19:45:45,820 - INFO - Added column: Bias and Ethical
+2025-05-30 19:45:45,821 - INFO - Added column: Cross-Session Continuity
+2025-05-30 19:45:45,821 - INFO - Added column: Information Provenance
+2025-05-30 19:45:45,821 - INFO - Processing question 1/5: How can I customize Active Workspace?
+2025-05-30 19:46:07,988 - INFO - Extracted 4 unique URLs.
+2025-05-30 19:46:07,990 - INFO - Message saved to messages\How_can_I_customize_Active_Wor_20250530_194607.json
+2025-05-30 19:46:07,990 - INFO - Processed question 1 successfully.
+2025-05-30 19:46:07,991 - INFO - Processing question 2/5: What is Command Builder command?
+2025-05-30 19:46:28,647 - INFO - Extracted 4 unique URLs.
+2025-05-30 19:46:28,649 - INFO - Message saved to messages\What_is_Command_Builder_comman_20250530_194628.json
+2025-05-30 19:46:28,649 - INFO - Processed question 2 successfully.
+2025-05-30 19:46:28,649 - INFO - Processing question 3/5: When Command Builder is visible?
+2025-05-30 19:46:42,773 - INFO - Extracted 4 unique URLs.
+2025-05-30 19:46:42,774 - INFO - Message saved to messages\When_Command_Builder_is_visibl_20250530_194642.json
+2025-05-30 19:46:42,775 - INFO - Processed question 3 successfully.
+2025-05-30 19:46:42,775 - INFO - Processing question 4/5: Is it possible to store changes in Command Builder?
+2025-05-30 19:46:56,877 - INFO - Extracted 3 unique URLs.
+2025-05-30 19:46:56,878 - INFO - Message saved to messages\Is_it_possible_to_store_change_20250530_194656.json
+2025-05-30 19:46:56,878 - INFO - Processed question 4 successfully.
+2025-05-30 19:46:56,879 - INFO - Processing question 5/5: What is Live Excel?
+2025-05-30 19:47:17,357 - INFO - Extracted 4 unique URLs.
+2025-05-30 19:47:17,359 - INFO - Message saved to messages\What_is_Live_Excel__20250530_194717.json
+2025-05-30 19:47:17,359 - INFO - Processed question 5 successfully.
+2025-05-30 19:47:17,401 - INFO - Processed file saved to output/processed_20250530_194717.xlsx
+2025-07-23 00:28:12,012 - INFO - Received file: 1 - Copy.csv
+2025-07-23 00:28:12,014 - INFO - Selected product: Teamcenter, version: 2406
+2025-07-23 00:28:12,015 - INFO - Uploaded file saved to output/1 - Copy.csv
+2025-07-23 00:28:12,035 - ERROR - An error occurred: 'utf-8' codec can't decode byte 0x92 in position 1311: invalid start byte
